@@ -62,4 +62,3 @@ with manual transmission.
      (9000 in this case, varies by car). However, this will burn more fuel, and revving over
      the limit can destroy your engine.
 
-       Click next to proceed, and start your car when you are ready.  Happy shifting!
